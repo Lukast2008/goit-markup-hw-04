@@ -423,9 +423,8 @@ customers
 .customers-header{
   font-size: 36px;
   line-height:1.16;
-  color: var(--header-color--) ;
+  color: var(--header-color--);
   text-align: center;
-  /* outline: 2px solid #1c12da; */
   padding-bottom: 50px;
 }
 
@@ -478,9 +477,6 @@ ooter
 
 
 */
-
-
-
 
 .footer {
   background-color: var(--backgrs-color--);
