@@ -360,6 +360,7 @@ ul{
   padding-left: 32px;
   padding-right: 32px;
   margin-top: 16px;
+  padding: 32px;
 }
 
 .link-social{
@@ -557,11 +558,11 @@ ooter
   text-transform: uppercase;
 }
   
-.social-links{
+.social-link{
   display: flex;
   justify-content: space-between;
-  padding: 0;
   margin-top: 20px;
+  gap:  10px;
 }
 
 
